@@ -1,2 +1,2 @@
 # axesor
-SFTP conection to Axesor
+SFTP connection to Axesor
