@@ -1,0 +1,163 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+#	* export_axesor360_files
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 12.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-02 09:40+0000\n"
+"PO-Revision-Date: 2022-05-02 09:40+0000\n"
+"Last-Translator: <>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: export_axesor360_files
+#: model_terms:ir.ui.view,arch_db:export_axesor360_files.res_config_settings_view_form
+msgid "Axesor 360 report"
+msgstr "Informe Axesor 360"
+
+#. module: export_axesor360_files
+#: model:ir.model,name:export_axesor360_files.model_res_config_settings
+msgid "Config Settings"
+msgstr "Opciones de configuración"
+
+#. module: export_axesor360_files
+#: model:ir.model.fields,field_description:export_axesor360_files.field_export_axesor__create_uid
+msgid "Created by"
+msgstr "Creado por"
+
+#. module: export_axesor360_files
+#: model:ir.model.fields,field_description:export_axesor360_files.field_export_axesor__create_date
+msgid "Created on"
+msgstr "Creado el"
+
+#. module: export_axesor360_files
+#: model:ir.model,name:export_axesor360_files.model_export_axesor
+msgid "Cron to export Axesor360 files"
+msgstr "Cron para exportar archivos de Axesor360"
+
+#. module: export_axesor360_files
+#: model:ir.model.fields,field_description:export_axesor360_files.field_export_axesor__display_name
+msgid "Display Name"
+msgstr "Nombre mostrado"
+
+#. module: export_axesor360_files
+#: model:ir.actions.server,name:export_axesor360_files.ir_cron_account_move_overdue_payment_order_ir_actions_server
+#: model:ir.cron,cron_name:export_axesor360_files.ir_cron_account_move_overdue_payment_order
+#: model:ir.cron,name:export_axesor360_files.ir_cron_account_move_overdue_payment_order
+msgid "Exportación Archivos Axesor360"
+msgstr ""
+
+#. module: export_axesor360_files
+#: model:ir.model.fields,field_description:export_axesor360_files.field_export_axesor__fichero_clientes
+msgid "FICHERO DE CLIENTES"
+msgstr ""
+
+#. module: export_axesor360_files
+#: model:ir.model.fields,field_description:export_axesor360_files.field_export_axesor__fichero_condiciones_pago_cobro
+msgid "FICHERO DE CONDICIONES DE PAGO/COBRO"
+msgstr ""
+
+#. module: export_axesor360_files
+#: model:ir.model.fields,field_description:export_axesor360_files.field_export_axesor__fichero_contactos_clientes
+msgid "FICHERO DE CONTACTOS DE CLIENTES"
+msgstr ""
+
+#. module: export_axesor360_files
+#: model:ir.model.fields,field_description:export_axesor360_files.field_export_axesor__fichero_direcciones
+msgid "FICHERO DE DIRECCIONES"
+msgstr ""
+
+#. module: export_axesor360_files
+#: model:ir.model.fields,field_description:export_axesor360_files.field_export_axesor__fichero_elementos_clasificacion
+msgid "FICHERO DE ELEMENTOS DE CLASIFICACIÓN"
+msgstr ""
+
+#. module: export_axesor360_files
+#: model:ir.model.fields,field_description:export_axesor360_files.field_export_axesor__fichero_formas_pago_cobro
+msgid "FICHERO DE FORMAS DE PAGO/COBRO"
+msgstr ""
+
+#. module: export_axesor360_files
+#: model:ir.model.fields,field_description:export_axesor360_files.field_export_axesor__fichero_partidas_abiertas
+msgid "FICHERO DE PARTIDAS ABIERTAS"
+msgstr ""
+
+#. module: export_axesor360_files
+#: model:ir.model.fields,field_description:export_axesor360_files.field_export_axesor__fichero_partidas_compensadas
+msgid "FICHERO DE PARTIDAS COMPENSADAS"
+msgstr ""
+
+#. module: export_axesor360_files
+#: model:ir.model.fields,field_description:export_axesor360_files.field_export_axesor__fichero_partidas_compensadas_anuladas
+msgid "FICHERO DE PARTIDAS COMPENSADAS ANULADAS"
+msgstr ""
+
+#. module: export_axesor360_files
+#: model:ir.model.fields,field_description:export_axesor360_files.field_export_axesor__fichero_saldos_no_facturados
+msgid "FICHERO DE SALDOS NO FACTURADOS"
+msgstr ""
+
+#. module: export_axesor360_files
+#: model:ir.model.fields,field_description:export_axesor360_files.field_export_axesor__fichero_sociedades
+msgid "FICHERO DE SOCIEDADES"
+msgstr ""
+
+#. module: export_axesor360_files
+#: model:ir.model.fields,field_description:export_axesor360_files.field_export_axesor__fichero_relacion_facturas_partidas_abiertas
+msgid "FICHERO QUE RELACIONA FACTURAS CON PARTIDAS ABIERTAS"
+msgstr ""
+
+#. module: export_axesor360_files
+#: model:ir.model.fields,field_description:export_axesor360_files.field_export_axesor__fichero_facturas_efectos
+msgid "FICHEROS DE FACTURAS Y EFECTOS"
+msgstr ""
+
+#. module: export_axesor360_files
+#: model:ir.model.fields,field_description:export_axesor360_files.field_export_axesor__id
+msgid "ID"
+msgstr ""
+
+#. module: export_axesor360_files
+#: model:ir.model.fields,field_description:export_axesor360_files.field_export_axesor____last_update
+msgid "Last Modified on"
+msgstr "Última modificación en"
+
+#. module: export_axesor360_files
+#: model:ir.model.fields,field_description:export_axesor360_files.field_export_axesor__write_uid
+msgid "Last Updated by"
+msgstr "Última actualización por"
+
+#. module: export_axesor360_files
+#: model:ir.model.fields,field_description:export_axesor360_files.field_export_axesor__write_date
+msgid "Last Updated on"
+msgstr "Última actualización el"
+
+#. module: export_axesor360_files
+#: model:ir.model.fields,field_description:export_axesor360_files.field_res_config_settings__axesor_password
+msgid "Password"
+msgstr "Contraseña"
+
+#. module: export_axesor360_files
+#: model:ir.model.fields,field_description:export_axesor360_files.field_res_config_settings__axesor_port
+msgid "Port"
+msgstr "Puerto"
+
+#. module: export_axesor360_files
+#: model:ir.model.fields,field_description:export_axesor360_files.field_export_axesor__fichero_resumen_ventas
+msgid "RESUMEN DE VENTAS"
+msgstr ""
+
+#. module: export_axesor360_files
+#: model:ir.model.fields,field_description:export_axesor360_files.field_res_config_settings__axesor_server
+msgid "Server"
+msgstr "Servidor"
+
+#. module: export_axesor360_files
+#: model:ir.model.fields,field_description:export_axesor360_files.field_res_config_settings__axesor_username
+msgid "Username"
+msgstr "Nombre de usuario"
